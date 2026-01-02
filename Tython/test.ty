@@ -1,0 +1,6 @@
+int: age = "10"
+float: pi = "3.14"
+bool: is_ready = "true"
+str: name = "Sinha"
+
+const int: max_users = "100"
